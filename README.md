@@ -1,7 +1,5 @@
 # file-upload-cloud-project
 
-## abdverse-pyflask
-
 Projeto de mentoria - desenvolvimento de website em #####
 
 ## Integracoes AWS
